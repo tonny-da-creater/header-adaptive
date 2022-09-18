@@ -113,6 +113,7 @@ ul{
 
 .side-menu:checked ~ .nav {
     max-height: 100%;
+    padding-bottom: 90px;
 }
 
 .side-menu:checked ~ .hamb .hamb-line {
